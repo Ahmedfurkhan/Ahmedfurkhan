@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedfurkhan.netfy.me/](https://ahmedfurkhan.netfy.me/)
 
-- 💬 Ask me about **DSA,OOPS**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **Ahmedfurkhan98@gmail.com**
 
