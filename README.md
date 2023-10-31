@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **learning new technolgies**
 
-- 👨‍💻 All of my projects are available at [https://ahmedfurkhan.netfy.me](ahmedfurkhan.netfy.me)
+- 👨‍💻 All of my projects are available at [https://ahmedfurkhan.netfy.me/](https://ahmedfurkhan.netfy.me/)
 
 - 💬 Ask me about **DSA,OOPS**
 
