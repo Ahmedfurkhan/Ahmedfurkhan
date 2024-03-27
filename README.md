@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Furkhan</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfurkhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfurkhan" /> </p>
 
@@ -14,8 +14,6 @@
 - 👯 I’m looking to collaborate on **learning new technolgies**
 
 - 👨‍💻 All of my projects are available at [https://ahmedfurkhan.github.io/portfolio.io/](https://ahmedfurkhan.github.io/portfolio.io/)
-
-- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **Ahmedfurkhan98@gmail.com**
 
