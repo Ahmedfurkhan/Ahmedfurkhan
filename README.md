@@ -1,12 +1,15 @@
+[![](https://visitcount.itsvg.in/api?id=ahmedfurkhan&icon=8&color=1)](https://visitcount.itsvg.in)
+
+
 <h1 align="center">Hi 👋, I'm Ahmed Furkhan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Building new skills<br><br>🌱 I’m currently learning Machine learning<br><br>👯 I’m looking to collaborate on learning new technolgies<br><br>👨‍💻 All of my projects are available at https://ahmedfurkhan.github.io/portfolio.io/<br><br>📫 How to reach me Ahmedfurkhan98@gmail.com<br><br>⚡ Fun fact I think I am crazy
-[![](https://visitcount.itsvg.in/api?id=ahmedfurkhan&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
-[![](https://visitcount.itsvg.in/api?id=ahmedfurkhan&icon=8&color=1)](https://visitcount.itsvg.in)
+
+
 
 
 ## 🌐 Socials:
