@@ -25,8 +25,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div class="footer-section">
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=dark&hide_border=false" alt="Ahmed Furkhan" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmed Furkhan" /></p>
+</div>
 
 
 
