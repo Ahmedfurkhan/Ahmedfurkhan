@@ -12,9 +12,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=dark&hide_border=false)<br/>
-<div style="text-align: center;">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
 
 
 # 💻 Tech Stack:
