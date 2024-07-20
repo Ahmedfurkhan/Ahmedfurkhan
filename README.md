@@ -10,9 +10,10 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ahmedfurkhan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ahmedfurkhan.challenger) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmed_furkhan_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed%20furkhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmedfurkhan98) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ahmed-Furkhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/ahmedfurkhan98) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> 
-![](https://github-readme-stats.vercel.app/api?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br /> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=dark&hide_border=false)<br /> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
