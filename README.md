@@ -13,6 +13,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=blue&hide_border=false&background=transparent" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfurkhan&theme=dark&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top languages" />
 </p>
