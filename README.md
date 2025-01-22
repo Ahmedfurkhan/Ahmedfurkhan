@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Furkhan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-# 💫 About Me:
+# 💫 About Me:-
 - 🔭 I’m currently working on building new skills
 - 🌱 I’m learning machine learning
 - 👯 I’m looking to collaborate on learning new technologies
