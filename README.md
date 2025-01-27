@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on learning new technologies
 - 👨‍💻 All of my projects are available at [my portfolio](https://ahmedfurkhan.github.io/portfolio.io/)
 - 📫 How to reach me: [Ahmedfurkhan98@gmail.com](mailto:Ahmedfurkhan98@gmail.com)
-- ⚡ Fun fact: I think I am crazy
 
 # 📊 GitHub Stats:
 <p align="center">
