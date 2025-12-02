@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on building new skills
 - 🌱 I’m learning machine learning
 - 👯 I’m looking to collaborate on learning new technologies
-- 👨‍💻 All of my projects are available at [my portfolio](https://ahmedfurkhan.github.io/portfolio.io/)
+- 👨‍💻 All of my projects are available at [my portfolio]()
 - 📫 How to reach me: [Ahmedfurkhan98@gmail.com](mailto:Ahmedfurkhan98@gmail.com)
 
 # 📊 GitHub Stats:
