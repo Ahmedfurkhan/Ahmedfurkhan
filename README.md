@@ -14,9 +14,9 @@
 <p align="center">
   <!-- AI/ML Core -->
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-092E20?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-092E20?style=flat&logo=scikitlearn&logoColor=white" /> -->
 
   <!-- Backend / APIs -->
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
