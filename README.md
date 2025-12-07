@@ -10,9 +10,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,postgres,mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/scikit--learn-092E20?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vercel" />
 </p>
 
 ---
