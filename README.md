@@ -12,12 +12,23 @@
 
 ## 🧠 Tech Stack
 <p align="center">
+  <!-- AI/ML Core -->
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/scikit--learn-092E20?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vercel" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-092E20?style=flat&logo=scikitlearn&logoColor=white" />
+
+  <!-- Backend / APIs -->
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+  <!-- Frontend (for full-stack delivery) -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+  <!-- DevOps / Deployment -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 </p>
 
 ---
