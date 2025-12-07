@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmedfurkhan/resources/main/banners/tech-dark.png" width="100%" alt="AI ML Banner"/>
-</p>
-
 <h1 align="center">Ahmed Furkhan</h1>
 <p align="center">AI/ML Practitioner • Data-Focused Developer</p>
 
@@ -29,12 +24,3 @@
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkhan&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
-
-## 📫 Connect
-**Email:** Ahmedfurkhan98@gmail.com  
-**LinkedIn:** https://linkedin.com/in/ahmedfurkhan  
-
----
-
-<p align="center"><sub>Learning continuously. Building consistently. Moving forward.</sub></p>
