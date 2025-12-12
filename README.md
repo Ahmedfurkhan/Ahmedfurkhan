@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - Developing skills in **Machine Learning**, **AI automation**, and **data-centric workflows**
 - Building practical systems focused on **real-world impact**
-- Portfolio: **(https://ahmedfurkhan.vercel.app/)[https://ahmedfurkhan.vercel.app/]**
+- Portfolio: **https://ahmedfurkhan.vercel.app/**
 
 ---
 
